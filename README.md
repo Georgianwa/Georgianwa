@@ -18,8 +18,8 @@ I’m a junior backend developer skilled in **Node.js, Python, and DevOps tools*
 ## 📌 Featured Projects  
 📩🔔📢 **[Telex Integration App](https://github.com/telexintegrations/Serious-Complaint-Logger.git)** – Output integration app to send emails when a serious complaint is logged  
 📚🛒👥 **[Bookstore API](https://github.com/Georgianwa/Georgia-s-Book-Management-System.git)** – REST API for managing books and users  
-🎲🔍🔢 **[Numbers API](https://github.com/Georgianwa/HNG/tree/main/Backend/Stage%201)** – Number property checker 
-🚀⚙️🔧 **[FastAPI book project](https://github.com/Georgianwa/fastapi-book-project.git)**– CI/CD pipeline and Dockerization for FastAPI app
+🎲🔍🔢 **[Numbers API](https://github.com/Georgianwa/HNG/tree/main/Backend/Stage%201)** – Number property checker
+🚀⚙️🔧 **[FastAPI book project](https://github.com/Georgianwa/fastapi-book-project.git)** – CI/CD pipeline and Dockerization for FastAPI app
 
 ---
 ## 🔭 I’m currently working on
