@@ -16,15 +16,15 @@ I’m a junior backend developer skilled in **Node.js, Python, and DevOps tools*
 ---
 
 ## 📌 Featured Projects  
-📩🔔📢 **[Telex Integration App](https://github.com/telexintegrations/Serious-Complaint-Logger.git)** – Output integration app to send emails when a serious complaint is logged  
-📚🛒👥 **[Bookstore API](https://github.com/Georgianwa/Georgia-s-Book-Management-System.git)** – REST API for managing books and users  
-🎲🔍🔢 **[Numbers API](https://github.com/Georgianwa/HNG/tree/main/Backend/Stage%201)** – Number property checker
-🚀⚙️🔧 **[FastAPI book project](https://github.com/Georgianwa/fastapi-book-project.git)** – CI/CD pipeline and Dockerization for FastAPI app
+- 📩🔔📢 **[Telex Integration App](https://github.com/telexintegrations/Serious-Complaint-Logger.git)** – Output integration app to send emails when a serious complaint is logged  
+- 📚🛒👥 **[Bookstore API](https://github.com/Georgianwa/Georgia-s-Book-Management-System.git)** – REST API for managing books and users  
+- 🎲🔍🔢 **[Numbers API](https://github.com/Georgianwa/HNG/tree/main/Backend/Stage%201)** – Number property checker
+- 🚀⚙️🔧 **[FastAPI book project](https://github.com/Georgianwa/fastapi-book-project.git)** – CI/CD pipeline and Dockerization for FastAPI app
 
 ---
 ## 🔭 I’m currently working on
-🕵️‍♂️🔤💀 **[Hangman Game](https://github.com/Georgianwa/Hangman.git)** - Backend logic for a Hangman game with functionalities like hinting and life countdowns
-💰📊📈 **[Personal Finance Manager](https://github.com/Georgianwa/Zeta.git)** - Personal Finance manager to handle CRUD operations for users, budgets and transactions
+- 🕵️‍♂️🔤💀 **[Hangman Game](https://github.com/Georgianwa/Hangman.git)** - Backend logic for a Hangman game with functionalities like hinting and life countdowns
+- 💰📊📈 **[Personal Finance Manager](https://github.com/Georgianwa/Zeta.git)** - Personal Finance manager to handle CRUD operations for users, budgets and transactions
 
 ---
 
@@ -36,9 +36,9 @@ I’m a junior backend developer skilled in **Node.js, Python, and DevOps tools*
 ---
 
 ## 📬 How to reach me!  
-📩 [Email Me](mailto:georgia.u.nwa@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/georgia-nwachukwu)  
-🚀 [GitHub](https://github.com/Georgianwa)  
+- 📩 [Email Me](mailto:georgia.u.nwa@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/georgia-nwachukwu)  
+- 🚀 [GitHub](https://github.com/Georgianwa)  
 
 ---
 ## 👯 I’m looking to collaborate on
